@@ -1,0 +1,14 @@
+<html>
+<head>
+<script>
+
+for(var i = 0; i <= 10; i = i + 1){
+var I = i*2;
+var I2 = i*3;   
+console.log(i +  " " + I + " " + I2);
+}
+
+</script>
+</head>
+</html>
+
